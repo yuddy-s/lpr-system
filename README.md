@@ -7,6 +7,8 @@ Sample image to be used for recognition <br>
 <img width="785" height="596" alt="Screenshot 2026-01-02 191143" src="https://github.com/user-attachments/assets/1ea35e65-bf60-432b-b299-c9bf9fb54e6a" /> <br>
 Character Recognition Example <br>
 
+***Description:***
+
 A simple license plate recognition system using **classical computer vision** and **machine learning**.
 
 **Pipeline:**
